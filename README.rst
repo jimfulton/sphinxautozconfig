@@ -2,6 +2,8 @@
 Spinx support for ZConfig
 *************************
 
+For more information on ZConfig, see: https://pypi.python.org/pypi/ZConfig
+
 Initially (and probably permanently :) ) This consists of a
 ``zconfigsectionkeys`` directive for rendering documentation for
 ZConfig section keys.
