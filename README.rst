@@ -35,6 +35,10 @@ XML_FILE_NAME
 SECTION_NAME
   The name of the section to render documentation for.
 
+For example, to render key documentation for the ZODB filestorage section::
+
+  .. zconfigsectionkeys:: ZODB component.xml filestorage
+
 Changes
 *******
 
